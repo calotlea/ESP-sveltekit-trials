@@ -1,4 +1,5 @@
 .pio
+lib/framework/WWWData.h
 .clang_complete
 .gcc-flags.json
 *Thumbs.db
